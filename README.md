@@ -18,13 +18,13 @@ The URL Shortener Application is a web-based tool that allows users to convert l
     2. Quick access to click statistics for each URL.
 
 ## Example Workflow:
-    * A user inputs https://example.com/some/very/long/url.
-    * The application generates a unique short URL like https://short.ly/abc123.
-    * When the short URL is clicked, the user is redirected to the original URL, and the click count is incremented.
+1. A user inputs https://example.com/some/very/long/url.
+2. The application generates a unique short URL like https://short.ly/abc123.
+3. When the short URL is clicked, the user is redirected to the original URL, and the click count is incremented.
 
 ## Use Cases: 
-    * Simplify sharing long URLs on social media platforms.
-    * Track engagement with marketing links.
-    * Enhance the user experience by creating manageable and memorable links.
+1. Simplify sharing long URLs on social media platforms.
+2. Track engagement with marketing links.
+3. Enhance the user experience by creating manageable and memorable links.
 
 This application is a practical solution for managing and monitoring web links efficiently.
