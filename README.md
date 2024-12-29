@@ -6,16 +6,16 @@ The URL Shortener Application is a web-based tool that allows users to convert l
 
 ## Key features - 
 **1. URL Shortening:**
-    * User can input any valid long URL.
-    * The system generates a unique, shortened URL for the input URL.
+    - User can input any valid long URL.
+    - The system generates a unique, shortened URL for the input URL.
 **2. Unique URL Generation:**
-    * Each shortened URL is unique and redirects to the original URL. 
-    * The generated URLs are easy to share and use. 
+    - Each shortened URL is unique and redirects to the original URL. 
+    - The generated URLs are easy to share and use. 
 **3. Click Tracking:** 
-    * Track the number of times each shortened URL is clicked. 
+    - Track the number of times each shortened URL is clicked. 
 **4. User-Friendly Interface:**
-    * Simple, intuitive design for entering URLs and retrieving shortened links. 
-    * Quick access to click statistics for each URL.
+    - Simple, intuitive design for entering URLs and retrieving shortened links. 
+    - Quick access to click statistics for each URL.
 
 ## Example Workflow:
     - A user inputs https://example.com/some/very/long/url.
